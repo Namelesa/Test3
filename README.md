@@ -1,4 +1,5 @@
-```/* USER CODE BEGIN Header */
+```
+/* USER CODE BEGIN Header */
 /**
   ******************************************************************************
   * @file           : main.c
@@ -676,4 +677,5 @@ void Error_Handler(void)
     HAL_Delay(100);
   }
   /* USER CODE END Error_Handler_Debug */
-}```
+}
+```
